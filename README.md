@@ -1,4 +1,4 @@
-# PRODIGY_ML_01
+# Housing_Prices
 
 •	Data Import and Exploration:
 
